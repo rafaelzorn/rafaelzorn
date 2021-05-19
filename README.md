@@ -6,7 +6,7 @@
 
 Web Developer at [Grupo Plan Marketing](https://www.planmkt.com.br/)
 
-Hi, I'm Rafael, a Web Developer from Brazil, graduated in Internet Systems from [Feevale University](https://www.planmkt.com.br/), curious about everything related to technology.
+Hi, I'm Rafael, a Web Developer from Brazil, graduated in Internet Systems from [Feevale University](https://www.feevale.br/), curious about everything related to technology.
 
 **Talking about Personal Stuffs:**
 
