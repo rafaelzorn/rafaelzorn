@@ -32,5 +32,5 @@ Hi, I'm Rafael, a Web Developer from Brazil, graduated in Internet Systems from 
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=rafaelzorn&count_private=true&show_icons=true&theme=algolia&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelzorn&count_private=true&show_icons=true&theme=algolia&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelzorn&count_private=true&layout=compact&langs_count=8&theme=algolia">
 </p>
