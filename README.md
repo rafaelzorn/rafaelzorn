@@ -32,7 +32,7 @@ Hi, I'm Rafael, a Web Developer from Brazil, graduated in Internet Systems from 
 
 ## :octocat: My Github Stats:
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelzorn&count_private=true&show_icons=true&theme=algolia&line_height=27"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelzorn&count_private=true&layout=compact&langs_count=8&theme=algolia"/>
 </div>
