@@ -19,15 +19,14 @@ Hi, I'm Rafael, a Web Developer from Brazil, graduated in Internet Systems from 
 <p>
    <img src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
    <img src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
-   <img src="https://img.shields.io/badge/javascript-F6DF1F.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-   <img src="https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/lumen-FF2D20.svg?&style=for-the-badge&logo=lumen&logoColor=white"/>
    <img src="https://img.shields.io/badge/mysql-3A95CB.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/lumen-FF2D20.svg?&style=for-the-badge&logo=lumen&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react_native-62DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flutter-1889FD.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
+   <img src="https://img.shields.io/badge/javascript-F6DF1F.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>    
+   <img src="https://img.shields.io/badge/react_native-62DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+   <img src="https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/flutter-1889FD.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
+   <img src="https://img.shields.io/badge/git-FF2D20.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ## :octocat: My Github Stats:
