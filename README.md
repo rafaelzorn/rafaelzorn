@@ -1,5 +1,5 @@
 
-### Hey there, I'm Rafael 👋
+## Hey there, I'm Rafael 👋
 
 <a href="https://www.linkedin.com/in/rafaelzorn"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:rafael.zorn@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
